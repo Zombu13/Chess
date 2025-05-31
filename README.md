@@ -19,6 +19,8 @@
 
 The board can be printed in a simple, plain-text format that resembles traditional chess layout:
 
+
+
    a   b   c   d   e   f   g   h
  +---+---+---+---+---+---+---+---+
 8|   |   |   |   |   |   |   |   | 8
